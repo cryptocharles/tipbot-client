@@ -1,6 +1,6 @@
 # 21 TipBot
 
-## To install the tipbot client:
+## To install the tipbot client
 
 `git clone https://github.com/cryptocharles/tipbot-client.git`
 
@@ -8,5 +8,6 @@
 
 `sudo pip3 install --editable .`
 
-## To use tipbot client
+## To use the tipbot client
+
 `tip username 10`
