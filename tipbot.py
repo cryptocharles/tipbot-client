@@ -2,8 +2,8 @@ import sys
 import json
 import click
 from two1.commands.config import Config
-from two1.lib.wallet import Wallet
-from two1.lib.bitrequests import BitTransferRequests
+from two1.wallet import Wallet
+from two1.bitrequests import BitTransferRequests
 
 wallet = Wallet()
 username = Config().username
